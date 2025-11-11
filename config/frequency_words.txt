@@ -1,16 +1,15 @@
-东莞捷圣智能科技
-
-华利集团
-
-鞋业
-
 制造业
+鞋业
+鞋业自动化
+东莞捷圣智能科技
 
 发那科
 
 ABB
 
 DeepSeek
+
+通义千问
 
 微软
 Microsoft
@@ -33,15 +32,12 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+java
+spring
+spring boot
 
 ai
 !gai
 人工智能
-
-自动驾驶
 
 机器人
