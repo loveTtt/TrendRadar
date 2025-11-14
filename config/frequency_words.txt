@@ -3,6 +3,7 @@
 鞋业
 
 视觉识别
+机器视觉
 
 鞋业自动化
 东莞捷圣智能科技
@@ -12,6 +13,8 @@
 ABB
 
 DeepSeek
+
+量子位
 
 通义千问
 阿里巴巴
@@ -46,6 +49,8 @@ Anthropic
 java
 spring
 spring boot
+
+Oracle
 
 ai
 !gai
