@@ -8,16 +8,14 @@
 鞋业自动化
 东莞捷圣智能科技
 
-发那科
-
-ABB
-
 DeepSeek
 
 量子位
 
 通义千问
 阿里巴巴
+
+百度
 
 腾讯
 
@@ -41,9 +39,11 @@ deepmind
 
 chatgpt
 openai
+codex
 sora
 
 claude
+claude code
 Anthropic
 
 java
@@ -52,8 +52,11 @@ spring boot
 
 Oracle
 
+AIGC
+
 ai
 !gai
 人工智能
 
 机器人
++工业机器人
